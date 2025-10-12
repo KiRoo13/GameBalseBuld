@@ -19,6 +19,7 @@ class Muzic extends Interface {
     src: ["./muzic/melody.mp3"],
     html5: true,
     volume: 0.1,
+    loop: true
   });
   lop = new Howl({
     src: ["./muzic/lop.mp3"],
